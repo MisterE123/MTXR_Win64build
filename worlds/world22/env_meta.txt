@@ -1,7 +1,0 @@
-lbm_introduction_times_version = 1
-time_of_day = 6125
-game_time = 64
-last_clear_objects_time = 0
-lbm_introduction_times = moreblocks:fix_split_stone_tile_alt_name_collision~0;
-day_count = 0
-EnvArgsEnd

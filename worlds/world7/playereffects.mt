@@ -1,1 +1,0 @@
-return {inactive_effects={},last_effect_id=0}

@@ -1,1 +1,0 @@
-return {current_weather={name="heavy_rain",fallbacks={"light_rain","clear"},time=163.7726741421005},changes_made=false,time=10}
