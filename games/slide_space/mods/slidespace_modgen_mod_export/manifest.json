@@ -1,0 +1,38 @@
+{
+	"bounds" : 
+	{
+		"max" : 
+		{
+			"x" : 3.0,
+			"y" : 2.0,
+			"z" : 2.0
+		},
+		"min" : 
+		{
+			"x" : 0.0,
+			"y" : 0.0,
+			"z" : 0.0
+		}
+	},
+	"chunks" : 9.0,
+	"mtime" : 1668808506.0,
+	"next_id" : 12.0,
+	"node_mapping" : 
+	{
+		"air" : 0.0,
+		"slide_space_nodes:end" : 11.0,
+		"slide_space_nodes:goo" : 7.0,
+		"slide_space_nodes:s1" : 2.0,
+		"slide_space_nodes:s2" : 3.0,
+		"slide_space_nodes:s3" : 4.0,
+		"slide_space_nodes:s4" : 6.0,
+		"slide_space_nodes:s5" : 8.0,
+		"slide_space_nodes:s6" : 9.0,
+		"slide_space_nodes:s7" : 10.0,
+		"slide_space_nodes:ss" : 5.0,
+		"slide_space_nodes:white" : 1.0
+	},
+	"size" : 8203.0,
+	"uid" : "702089",
+	"version" : 4.0
+}

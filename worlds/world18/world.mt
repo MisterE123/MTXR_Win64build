@@ -1,0 +1,10 @@
+player_backend = sqlite3
+backend = sqlite3
+world_name = world18
+enable_damage = true
+creative_mode = false
+mod_storage_backend = sqlite3
+gameid = blocky_portaling
+auth_backend = sqlite3
+server_announce = false
+load_mod_volumetric_lighting = false

@@ -1,0 +1,10 @@
+player_backend = sqlite3
+backend = sqlite3
+world_name = world5
+enable_damage = true
+creative_mode = false
+mod_storage_backend = sqlite3
+gameid = klots
+auth_backend = sqlite3
+server_announce = false
+load_mod_volumetric_lighting = false
